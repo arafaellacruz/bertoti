@@ -1,14 +1,13 @@
 ## Engenharia de Software - Giuliano Bertoti
 
-### Atividade 1: 08/08/2024 - sexta-feira
+### Atividade 1: 08/08/2024
 
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 -> O que é Engenharia de Software?
 Engenharia de Software é o processo de planejar, desenhar e aplicar um software pensando na escalabilidade e eficiência dele a curto e longo prazo, ou seja, criando um desenvolvimento onde atendemos as funções atuais e também, conforme ele cresce em tamanho e complexidades, de forma que não afete a funcionabilidade e desempenho do sistema.
 
-### Atividade  2: 12/08/2024 - segunda-feira
-
+### Atividade  2: 12/08/2024 
 Dê 3 exemplos de trade-offs:
 
 1. Usabilidade: é a medida de quão fácil e intuitivo é para os usuários interagirem com um sistema ou aplicação, garantindo eficiência, eficácia e satisfação na realização de tarefas.
