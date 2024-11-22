@@ -128,7 +128,8 @@ class TestAnimal {
 
 ### Atividade  4: Diagrama de Classes UML
 
-![Classes UMl](https://github.com/user-attachments/assets/4236955a-bba2-4aa3-9398-5f9873ae4757)
+![image](https://github.com/user-attachments/assets/166b0055-2718-4c36-9916-7ec8c37e41b8)
+
 
 
 
