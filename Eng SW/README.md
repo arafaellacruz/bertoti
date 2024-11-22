@@ -127,4 +127,13 @@ class TestAnimal {
 
 ```
 
-  
+### Atividade  4: Diagrama de Classes UML
+
+![Classes UMl](https://github.com/user-attachments/assets/4236955a-bba2-4aa3-9398-5f9873ae4757)
+
+
+
+### Atividade  5: Assistente JAVA integrado com modelos de linguagem
+[Clique aqui para acessar o site](https://github.com/arafaellacruz/bertoti/tree/main/Eng%20SW/LoLBuildBuddy)
+
+
