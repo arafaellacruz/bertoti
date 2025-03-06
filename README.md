@@ -6,3 +6,6 @@ Destinado ao armazenamento das atividades propostas pelo professor Giuliano Bert
 
 ### Eng SW
 Destinado as atividades feitas no 2º semestre, na disciplina de Engenharia de Software.
+
+### Laboratório de Desenvolvimento em Banco de Dados III
+Destinado as atividades feitas no 3º semestre, na disciplina de Laboratório de Desenvolvimento em Banco de Dados III.
