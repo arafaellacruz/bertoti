@@ -9,3 +9,9 @@ Destinado as atividades feitas no 2º semestre, na disciplina de Engenharia de S
 
 ### Laboratório de Desenvolvimento em Banco de Dados III
 Destinado as atividades feitas no 3º semestre, na disciplina de Laboratório de Desenvolvimento em Banco de Dados III.
+
+### Metodologias de Pesquisa Cientifico-Tecnológica
+Destinado as atividades feitas no 4º semestre, na disciplina de Metodologias de Pesquisa Cientifico-Tecnológica.
+
+### Padrões de Projetos de Sistemas
+Destinado as atividades feitas no 4º semestre, na disciplina de Padrões de Projetos de Sistemas.
