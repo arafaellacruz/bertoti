@@ -1,4 +1,4 @@
-# Rafaella Letícia Rodrigues Cruz
+<img  style="width: 100%; height: 100%; border-radius: 8px" src="assets\header - portfolio.gif">
 
 ## Introdução
 
@@ -41,7 +41,7 @@ O projeto trata-se de um "Sistema de Ponto" neste repositório. O objetivo do pr
 />
 
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 <p align="justify">
 Contribuí inicialmente com a construção da identidade visual e a prototipação da solução utilizando o Figma. Ao longo da 2ª e 3ª sprint, direcionei meus esforços para o desenvolvimento frontend e, principalmente, para o backend, com foco na funcionalidade de histórico de pontos.
 </p>
@@ -56,12 +56,12 @@ Contribuí inicialmente com a construção da identidade visual e a prototipaç�
     <li><strong>Desenvolvimento backend com Spring Boot</strong>: Com um banco baseado em PostgreSQL desenvolvi algumas entidades para uso do nosso backend, citando mais importantes os registros de pontos e histórico de alterações do mesmo.</li>
 </ul>
 
-#### Hard Skills - maximo que eu conseguir
+### Hard Skills - maximo que eu conseguir
 <p align="justify">
 Destaco minha atuação no desenvolvimento das ferramentas de prototipação do projeto, na implementação do frontend com Vue.js e no backend com Spring Boot. Além disso, trabalhei com o banco de dados em nuvem utilizando Supabase, integrando as tecnologias de forma eficiente e coesa.
 </p>
 
-#### Soft Skills
+### Soft Skills
 <p align="justify">
 Além das habilidades técnicas, destaco minhas soft skills, como comunicação clara, colaboração em equipe, adaptabilidade e proatividade. Essas competências me permitem lidar com desafios de forma eficiente, contribuir para um ambiente de trabalho harmonioso e impulsionar resultados de maneira criativa e estratégica.
 </p>
@@ -78,8 +78,4 @@ Mesmo formato
 ### Em 2023-2
 Mesmo formato
 
-
-
-
-
-
+<img  style="width: 100%; height: 100%; border-radius: 8px" src="assets\footer - portfolio.gif">
